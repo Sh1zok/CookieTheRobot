@@ -1,0 +1,17 @@
+{
+  "name": "CookieTheRobot",
+  "description": "[v0.5]",
+  "authors": [
+    "Sh1zok"
+  ],
+  "color": "#00ffff",
+  "autoScripts": [
+    "scripts.libraries.FOXAPI.api",
+    "scripts.libraries.GSAnimBlend",
+    "scripts.libraries.AudioFramework",
+    "scripts.Main",
+    "scripts.CameraController",
+    "scripts.ModelController",
+    "scripts.DisplayController"
+  ]
+}
